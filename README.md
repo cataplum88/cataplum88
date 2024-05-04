@@ -1,15 +1,15 @@
-### Hi there 👋 I'm Cataplum
+# 🚀 Portfolio Cataplum88
 
-<!--
-**cataplum88/cataplum88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏠 Home: Descubre mi Trayectoria y Competencias
 
-Here are some ideas to get you started:
+En la página principal de Portfolio Cataplum88, te invito a conocer mi experiencia y servicios en Project Management y Diseño Instruccional. Descarga una presentación detallada donde explico el proceso de creación y desarrollo, resaltando las competencias que domino: Innovación, Digitalización, Comunicación e Investigación.
 
-- 🔭 I’m currently working on my own Portafolio as learning project manager focus in UX and marketing...
-- 🌱 I’m currently learning HTML5, CSS and Javascript...
-- 👯 I’m looking to collaborate on ...
+## 👤 About Me: Explorando mi Trayectoria y Proyectos
 
-- 📫 How to reach me: cataplum88@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
--->
+Descarga mi hoja de vida y explora una selección de proyectos destacados para obtener una visión completa de mi experiencia profesional.
+
+## 📧 Contacto: Conéctate conmigo en cataplum88@gmail.com
+
+Completa el formulario de contacto para consultas, comentarios o colaboraciones. ¡Espero poder ayudarte!
+
+¡Gracias por visitar Portfolio Cataplum88 y descubrir más sobre mi experiencia y servicios!
